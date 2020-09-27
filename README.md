@@ -9,22 +9,19 @@
 <!-- <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p> -->
 
 
-<!-- 
+
 <div>
-cpp  
-                                    void life(void)
-                                    {
-                                      printf("Hi 👋, I'm Omar Hagoche \n");
-                                      printf("A .NET Developer \n");
-                                      char currentlyLearning[] = "";
-                                      char AskMeAbout[] = "";
-                                      char ReachMeAt[] = "";
-                                      char FunFact[]  = "I don't have a girlfriend 😭";
-                                    }
+C# <br> 
+                                    public void Mylife() <br> 
+                                    { <br> 
+                                      Console.WriteLine("Hi 👋, I'm Omar Hagoche \n"); <br> 
+                                      Console.WriteLine("A .NET Developer \n"); <br> 
+                                      Console.WriteLine("I don't have a girlfriend 😭"); <br> 
+                                    } <br> 
 
 
 </div>
--->
+
 
 
 <div align=center>

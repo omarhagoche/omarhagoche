@@ -31,6 +31,7 @@ cpp
 
    <img src="https://img.shields.io/badge/-c%23-purple?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge" />
+   <img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge" />
   <!--   <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
    <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />

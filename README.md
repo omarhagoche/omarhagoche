@@ -1,4 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+<html>
+  <header> 
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
+  </header>
+<body>
 <!--
 <p align=center ><img src="https://i.imgur.com/u0IETFu.png" title="source: imgur.com" /></p>
 <p align=center><a href="https://imgur.com/9cyvBLo"><img src="https://i.imgur.com/9cyvBLo.png" title="source: imgur.com" /></a></p>
@@ -60,4 +64,6 @@ cpp
 <a href="https://instagram.com/kodigo88/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="dipankarpal5050" height="20" width="20" /></a>
 <a href="https://fb.com/omar.hakoush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="deep.neon" height="20" width="20" /></a>
 </p>
+  </body>
+</html>
 

@@ -10,7 +10,7 @@
 
 
 
-<div>
+<div align=center>
 C# <br> 
                                     public void Mylife() <br> 
                                     { <br> 
@@ -30,15 +30,7 @@ C# <br>
    <img src="https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-Xamarin-blue?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-Angular-red?style=for-the-badge" />
-  <!--   <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
-   <img src="https://img.shields.io/badge/Docker%20-%23e34f26.svg?&style=for-the-badge&logo=docker&logoColor=white" />
-   <img src="https://img.shields.io/badge/python%20-%23339933.svg?&style=for-the-badge&logo=python&logoColor=white" />
-   <img src="https://img.shields.io/badge/Linux%20-%23e34f26.svg?&style=for-the-badge&logo=linux&logoColor=white" />
-   <img src="https://img.shields.io/badge/java%20-%23339933.svg?&style=for-the-badge&logo=java&logoColor=white" />
--->
-  
+
   <!-- <p align=center><a href="https://github.com/omarhagoche"><img src="https://i.imgur.com/MN69E9a.png" title="Technologies I use" align=center/></a></p> -->
 
 

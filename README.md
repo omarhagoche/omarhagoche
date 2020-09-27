@@ -6,10 +6,10 @@
 
 <!-- <p align=center><a href="https://github.com/omarhagoche"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p> -->
 
-<!-- <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p> -->
+<p align=center><a href="https://imgur.com/avEOGqH"><img src="https://i.imgur.com/avEOGqH.png" title="source: imgur.com"  /></a></p>
 
 
-
+<!--
 <div align=center>
 C# <br> 
                                     public void Mylife() <br> 
@@ -21,6 +21,7 @@ C# <br>
 
 
 </div>
+-->
 
 
 

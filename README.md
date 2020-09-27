@@ -14,11 +14,11 @@
 cpp  
                                     void life(void)
                                     {
-                                      printf("Hi 👋, I'm Dipankar \n");
-                                      printf("A passionate kernel hacker from India \n");
-                                      char currentlyLearning[] = "openWRT";
-                                      char AskMeAbout[] = "Linux";
-                                      char ReachMeAt[] = "d.pal5050@gmail.com";
+                                      printf("Hi 👋, I'm Omar Hagoche \n");
+                                      printf("A .NET Developer \n");
+                                      char currentlyLearning[] = "";
+                                      char AskMeAbout[] = "";
+                                      char ReachMeAt[] = "";
                                       char FunFact[]  = "I don't have a girlfriend 😭";
                                     }
 

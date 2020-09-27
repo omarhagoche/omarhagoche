@@ -28,8 +28,6 @@ cpp
 
 
 <div align=center>
-<!-
-  
 
    <img src="https://img.shields.io/badge/-c%23-purple?style=for-the-badge" />
 <!--   <img src="https://img.shields.io/badge/javascript%20-%23339933.svg?&style=for-the-badge&logo=javascript&logoColor=white" />

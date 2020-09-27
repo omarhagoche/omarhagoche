@@ -4,7 +4,7 @@
 
 !-->
 
-<p align=center><a href="https://github.com/deep5050"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p>
+<!-- <p align=center><a href="https://github.com/omarhagoche"><img src="https://i.imgur.com/iz0jaCX.png" /></a></p> -->
 
 <p align=center><a href="https://imgur.com/XJpcu1U"><img src="https://i.imgur.com/mTjyVAq.png" title="source: imgur.com"  /></a></p>
 

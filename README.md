@@ -8,8 +8,13 @@
    <img src="https://img.shields.io/badge/-MAUI-purple?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-Blazor-purple?style=for-the-badge" />
 
-   <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true" alt="Omar Hagoche" /> <br>
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html" alt="mxschmitt" /></p>
+   <p align="center"> 
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html" alt="mxschmitt" />
+   <br>
+<img src="https://github-profile-trophy.vercel.app/?username=omarhagoche&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5" alt="Profile Trophy" />
+   <br>
+   <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true" alt="Omar Hagoche" />
+   </p>
   </div>
 
 <p align=center><a href="https://imgur.com/avEOGqH"><img src="https://i.imgur.com/avEOGqH.png" title="source: imgur.com"/></a></p>

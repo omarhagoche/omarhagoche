@@ -9,10 +9,10 @@
    <img src="https://img.shields.io/badge/-Blazor-purple?style=for-the-badge" />
 
    <p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html" alt="mxschmitt" width="400" height="140"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true" alt="Omar Hagoche" width="400" height="140" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html&theme=dark" alt="mxschmitt" width="400" height="140"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true&theme=dark" alt="Omar Hagoche" width="400" height="140" />
    <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=omarhagoche&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5" alt="Profile Trophy" />
+<img src="https://github-profile-trophy.vercel.app/?username=omarhagoche&theme=onedark&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5" alt="Profile Trophy" />
 
    </p>
   </div>

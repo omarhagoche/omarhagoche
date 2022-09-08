@@ -24,10 +24,9 @@
 </p>
 
 <p align="center">
-<a href="https://instagram.com/omarhagoche/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/instagram.svg" alt="InstagramLink" height="32" width="32" /></a>
-<a href="https://fb.com/omar.hakoush" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/facebook.svg" alt="FcebookLink" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/omar-hagoche" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/linkedin.svg" alt="LinkedInLink" height="32" width="32" /></a>
-<a href="https://wa.me/218923350343" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@7.8.0/icons/whatsapp.svg" alt="WhatsAPPLink" height="32" width="32" /></a>
+<a href="https://instagram.com/omarhagoche/" target="blank"><img align="center" src="https://simpleicons.vercel.app/instagram/747474" alt="InstagramLink" height="32" width="32" /></a>
+<a href="https://fb.com/omar.hakoush" target="blank"><img align="center" src="https://simpleicons.vercel.app/facebook/747474" alt="FcebookLink" height="32" width="32" /></a>
+<a href="https://www.linkedin.com/in/omar-hagoche" target="blank"><img align="center" src="https://simpleicons.vercel.app/linkedin/747474" alt="LinkedInLink" height="32" width="32" /></a>
+<a href="https://wa.me/218923350343" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/747474" alt="WhatsAPPLink" height="32" width="32"/></a>
 </p>
-
 

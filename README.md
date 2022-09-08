@@ -17,7 +17,7 @@
    </p>
   </div>
 
-<p align=center><a href="https://imgur.com/avEOGqH"><img src="https://i.imgur.com/avEOGqH.png" title="source: imgur.com"/></a></p>
+<!--<p align=center><a href="https://imgur.com/avEOGqH"><img src="https://i.imgur.com/avEOGqH.png" title="source: imgur.com"/></a></p>-->
 
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=omarhagoche.omarhagoche" alt="Visitors">                     

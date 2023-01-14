@@ -1,28 +1,34 @@
 
 <div align=center>
-
+   
+<h3 align=center>Skills</h3>
    <img src="https://img.shields.io/badge/-.NET-blue?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-c%23-purple?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-Xamarin.Forms-blue?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-MAUI-purple?style=for-the-badge" />
    <img src="https://img.shields.io/badge/-Blazor-purple?style=for-the-badge" />
-
+   
    <p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html&theme=dark" alt="mxschmitt" width="400" height="140"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true&theme=dark" alt="Omar Hagoche" width="400" height="140" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html&theme=transparent" alt="mxschmitt" width="400" height="140"/>
+   <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true&count_private=true&theme=transparent" alt="Omar Hagoche" width="400" height="140" />
    <br><br>
-<img src="https://github-profile-trophy.vercel.app/?username=omarhagoche&theme=onedark&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5" alt="Profile Trophy" />
-
+      <h3 align=center>Profile Trophy</h3>
+<img src="https://github-profile-trophy.vercel.app/?username=omarhagoche&theme=transparent&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5" alt="Profile Trophy" />
    </p>
   </div>
 
-<!--<p align=center><a href="https://imgur.com/avEOGqH"><img src="https://i.imgur.com/avEOGqH.png" title="source: imgur.com"/></a></p>-->
+<h3 align=center>Experience</h3>
+<p align="center">
+   <img align=center src="https://readme-components.vercel.app/api?component=experience&company=asaryasoft&duration=3y&role=.NET%20Developer&location=Az-Zawiyah,Libya&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&textfill=000000" alt="AsaryaSoft">
+ </p>
 
+<h3 align=center>Visitors</h3>
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=omarhagoche.omarhagoche" alt="Visitors">                     
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=omarhagoche.omarhagoche&theme=transparent" alt="Visitors">                     
 </p>
 
+<h3 align=center>Contact ME</h3>
 <p align="center">
 <a href="https://instagram.com/omarhagoche/" target="blank"><img align="center" src="https://simpleicons.vercel.app/instagram/747474" alt="InstagramLink" height="32" width="32" /></a>
 <a href="https://fb.com/omar.hakoush" target="blank"><img align="center" src="https://simpleicons.vercel.app/facebook/747474" alt="FcebookLink" height="32" width="32" /></a>

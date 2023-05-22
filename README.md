@@ -23,10 +23,10 @@
    <img align=center src="https://readme-components.vercel.app/api?component=experience&company=asaryasoft&duration=3y&role=.NET%20Developer&location=Zawiyah,Libya&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&textfill=000000" alt="AsaryaSoft">
  </p>
 
-<h3 align=center>Visitors</h3>
+<!--<h3 align=center>Visitors</h3>
 <p align=center>                           
   <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=omarhagoche.omarhagoche&theme=transparent" alt="Visitors">                     
-</p>
+</p>-->
 
 <h3 align=center>Contact ME</h3>
 <p align="center">

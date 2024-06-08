@@ -1,38 +1,52 @@
+<div align="center">
+      <!-- Nice to meet You, My Name is Omar Hagoche, Welcome to My Humility Profile -->
+      <img
+         src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=8A36E2&center=true&vCenter=true&multiline=true&random=false&width=435&height=110&lines=%F0%9F%91%8B+Nice+to+Meet+You+%F0%9F%91%8B;%F0%9F%A4%93+My+Name+is+Omar+Hagoche+%F0%9F%A4%93;**+Welcome+to+My+Humility+Profile+**+"
+         alt="Typing SVG" />
+      <!-- How Many Times You Visit my Profile -->
+      <p> <img src="https://komarev.com/ghpvc/?username=omarhagoche&label=Profile%20views&color=8A36E2&style=flat"
+            alt="omarhagoche" /></p>
+      <!-- My Skills -->
+      <h3>🧐 What I do ? 🧐</h3>
+      <img src="https://img.shields.io/badge/-.NET-blueviolet?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-c%23-blueviolet?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-.NET Maui-blueviolet?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/-FullStack Blazor-blueviolet?style=for-the-badge" />
+      <br><br><br>
+      <!-- most used languages by repositories -->
+      <img
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html&theme=transparent"
+         alt="mxschmitt" width="400" height="140" />
+      <!-- My Stats -->
+      <img
+         src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true&count_private=true&theme=transparent"
+         alt="Omar Hagoche" width="400" height="140" />
+      <br>
+      <!-- My Trophies on Github -->
+      <h3>🏆 My Profile Trophy 🏆</h3>
+      <img
+         src="https://github-profile-trophy.vercel.app/?username=omarhagoche&theme=transparent&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5"
+         alt="Profile Trophy" />
+      <br>
+      <h3>🤙 Contact ME 🤙</h3>
+      <p>Don't be Shy.</p>
+      <p>
+         <a href="https://www.linkedin.com/in/omar-hagoche" target="blank"><img
+               src="https://img.icons8.com/?size=100&id=60ZV_wYC0BM2&format=png&color=000000" alt="LinkedInLink"
+               height="32" width="32" /></a>
+         <a href="https://wa.me/218923350343" target="blank"><img
+               src="https://img.icons8.com/?size=100&id=99g_nik1bya1&format=png&color=000000" alt="WhatsAPPLink"
+               height="32" width="32" /></a>
+         <a href="https://fb.com/omar.hakoush" target="blank"><img
+               src="https://img.icons8.com/?size=100&id=ddJXF_L1PvL_&format=png&color=000000" alt="FcebookLink"
+               height="32" width="32" /></a>
+         <a href="https://x.com/omar_hagoche" target="blank"><img
+               src="https://img.icons8.com/?size=100&id=yoQabS8l0qpr&format=png&color=000000" alt="XPlatformLink"
+               height="32" width="32" /></a>
+         <a href="https://instagram.com/omar_hagoche" target="blank"><img
+               src="https://img.icons8.com/?size=100&id=80593&format=png&color=000000" alt="InstagramLink" height="32"
+               width="32" /></a>
+      </p>
+      <p>Check out my repos ⬇️</p>
 
-<div align=center>
-   
-<h3 align=center>Skills</h3>
-   <img src="https://img.shields.io/badge/-.NET-blue?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-c%23-purple?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-MSSQL-orange?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-Xamarin.Forms-blue?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-MAUI-purple?style=for-the-badge" />
-   <img src="https://img.shields.io/badge/-Blazor-purple?style=for-the-badge" />
-   
-   <p align="center"> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html&theme=transparent" alt="mxschmitt" width="400" height="140"/>
-   <img src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true&count_private=true&theme=transparent" alt="Omar Hagoche" width="400" height="140" />
-   <br><br>
-      <h3 align=center>Profile Trophy</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=omarhagoche&theme=transparent&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5" alt="Profile Trophy" />
-   </p>
-  </div>
-
-<h3 align=center>Experience</h3>
-<p align="center">
-   <img align=center src="https://readme-components.vercel.app/api?component=experience&company=asaryasoft&duration=3y&role=.NET%20Developer&location=Zawiyah,Libya&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A&textfill=000000" alt="AsaryaSoft">
- </p>
-
-<!--<h3 align=center>Visitors</h3>
-<p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=omarhagoche.omarhagoche&theme=transparent" alt="Visitors">                     
-</p>-->
-
-<h3 align=center>Contact ME</h3>
-<p align="center">
-<a href="https://instagram.com/omarhagoche/" target="blank"><img align="center" src="https://simpleicons.vercel.app/instagram/747474" alt="InstagramLink" height="32" width="32" /></a>
-<a href="https://fb.com/omar.hakoush" target="blank"><img align="center" src="https://simpleicons.vercel.app/facebook/747474" alt="FcebookLink" height="32" width="32" /></a>
-<a href="https://www.linkedin.com/in/omar-hagoche" target="blank"><img align="center" src="https://simpleicons.vercel.app/linkedin/747474" alt="LinkedInLink" height="32" width="32" /></a>
-<a href="https://wa.me/218923350343" target="blank"><img align="center" src="https://simpleicons.vercel.app/whatsapp/747474" alt="WhatsAPPLink" height="32" width="32"/></a>
-</p>
-
+   </div>

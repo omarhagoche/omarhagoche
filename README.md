@@ -14,18 +14,15 @@
       <img src="https://img.shields.io/badge/-FullStack Blazor-blueviolet?style=for-the-badge" />
       <br><br><br>
       <!-- most used languages by repositories -->
-      <img
+      <!--  <img
          src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarhagoche&layout=compact&hide=html&theme=transparent"
-         alt="mxschmitt" width="400" height="140" />
+         alt="mxschmitt" width="400" height="140" /> -->
       <!-- My Stats -->
-      <img
-         src="https://github-readme-stats.vercel.app/api?username=omarhagoche&show_icons=true&count_private=true&theme=transparent"
-         alt="Omar Hagoche" width="400" height="140" />
-      <br>
+      <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=omarhagoche&theme=dark&border_radius=12&short_numbers=true&date_format=%5BY%20%5DM%20j&mode=weekly" alt="GitHub Streak" /></a>
       <!-- My Trophies on Github -->
       <h3>🏆 My Profile Trophy 🏆</h3>
       <img
-         src="https://github-profile-trophy.vercel.app/?username=omarhagoche&theme=transparent&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5"
+         src="https://github-profile-trophy-kannan.vercel.app/?username=omarhagoche&theme=transparent&title=Followers,Joined2020,Commits,Issues,PullRequest&rank=-CC&row=5&column=5"
          alt="Profile Trophy" />
       <br>
       <h3>🤙 Contact ME 🤙</h3>
